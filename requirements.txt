@@ -1,0 +1,31 @@
+download yolo.weights
+SpeechRecognition            3.10.1
+gTTS                         2.5.1
+pyjokes                      0.6.0
+beautifulsoup4               4.12.3
+pyautogui                    0.9.54                
+pyttsx3                      2.90
+requests                     2.31.0
+pywhatkit                    5.4
+twilio                       8.13.0
+wikipedia                    1.4.0
+pygame                       2.5.2
+geocoder                     1.38.1
+geopy                        2.4.1
+threading
+jsonschema                   4.21.1
+jsonschema-specifications    2023.12.1
+pyowm                        3.3.0
+nltk                         3.8.1
+numpy                        1.26.4
+matplotlib                   3.8.3
+randon
+os
+datetime
+time
+webbrowser
+re
+time
+urllib
+smtplib
+cv2

@@ -1,0 +1,34 @@
+check out def respond(text) for options 
+hi
+what is your name : to get assistants name
+my name is :to set users name
+whats the time : to get time
+search, information,about : to get summary on whatever you search
+get xyz on youtube, videio on : video on youtube
+play : to play a song
+price of : to get price
+weather : to get weather
+game : to play stone paper siccors
+toss,flip,coin : toss a coin
+calculate : eg: 5+3
+email to samira or varsha : sends a mail
+send a mail,send mail etc : to send a mail
+news : to get news8
+where am i : to get region
+exact location: to get exact location
+map to dest : to get directions
+joke : to say jokes
+send a message, send msg etc : to send a whatsapp message
+take a note : to write down notes
+read a note : to read the notes
+suggest novels : to suggest novels
+what is this : object detection
+# need too add
+1. translate anything to any other lang as per user's request
+2. check ticket availability 
+3. try to implement chalo,wheres my train functionality
+4. voice automated cab booking
+5. orderring stuff's(food,clothes,products,medicines)
+6. alarm 
+7. voice guided directions
+

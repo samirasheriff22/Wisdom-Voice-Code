@@ -637,9 +637,9 @@ def wait():
             return True
                 
                     
-account_sid = 'AC7417abe5e25adc20e39705c2c8c36562'
-auth_token = '31150366350e91ad911812761912276e'
-twilio_phone_number = '+18574966549'
+account_sid = 'add you sid'
+auth_token = 'add your auth token'
+twilio_phone_number = 'add your phone number'
 
 
 # function to make call
@@ -661,14 +661,7 @@ def make_phone_call(contact_number):
 
 
 contact_numbers = {
-    "mummy": "+918939936605",
-    "daddy":"+919176637899",
-    "sam" : "+919003186605",
-    "vignesh": "+919043398529",
-    "varsha" : "+919384920602",
-    "saran" :"+918124832438",
-    "harshi" :"+919444276672"
-    
+//add contact  numbers
 }  
 
 
